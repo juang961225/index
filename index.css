@@ -1,0 +1,78 @@
+body {
+    background:rgb(50, 116, 192);
+}
+
+hr {
+    color: white;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 5px;
+
+}
+.card1 {
+    float: left;
+    position: relative;
+    background: rgb(91, 158, 235);
+    width: 240px;
+    height: 400px;
+    padding: 20px 50px 50px 50px;
+    margin: 60px 40px 20px 80px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.card2 {
+    float: left;
+    position: relative;
+    background: rgb(91, 158, 235);
+    width: 240px;
+    height: 400px;
+    padding: 20px 50px 50px 50px;
+    margin: 60px 40px 20px 40px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.card3 {
+    float: left;
+    position: relative;
+    background: rgb(91, 158, 235);
+    width: 240px;
+    height: 400px;
+    padding: 20px 50px 50px 50px;
+    margin: 60px 40px 20px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 100%;
+    text-align: center
+}
+
+.card3_img img {
+    position:relative;
+    width: 300px;
+    height: 150px;
+    top: 10px;
+    left: -30px;
+    
+}
+
+.card1_img img{
+    height: 310px;
+    width: 300px;
+    position: relative;
+    left: -25px;
+}
